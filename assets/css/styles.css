@@ -245,6 +245,13 @@ img {
   font-size: var(--biggest-font-size);
 }
 
+.home__data {
+  position: absolute;
+  bottom: 4rem;
+  text-align: center;
+  margin-inline: 1.5rem; /* margin-left & margin-right: 1.5rem */
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
