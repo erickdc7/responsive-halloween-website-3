@@ -237,6 +237,10 @@ img {
   text-shadow: 0 2px 8px var(--first-color);
 }
 
+.home__subtitle {
+  font-size: var(--big-font-size);
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
