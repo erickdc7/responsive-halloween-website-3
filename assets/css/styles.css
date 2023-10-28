@@ -146,6 +146,10 @@ img {
   transition: text-shadow 0.3s;
 }
 
+.nav__link:hover {
+  text-shadow: 0 2px 8px var(--first-color);
+}
+
 /* Show menu */
 
 /* Change background header */
