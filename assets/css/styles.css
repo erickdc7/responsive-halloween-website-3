@@ -113,6 +113,13 @@ img {
   text-shadow: 0 2px 8px var(--first-color);
 }
 
+.nav__toggle,
+.nav__close {
+  display: flex;
+  font-size: 1.25rem;
+  cursor: pointer;
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
