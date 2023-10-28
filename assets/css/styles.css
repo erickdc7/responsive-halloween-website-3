@@ -109,6 +109,10 @@ img {
   transition: text-shadow 0.3s;
 }
 
+.nav__logo:hover {
+  text-shadow: 0 2px 8px var(--first-color);
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
