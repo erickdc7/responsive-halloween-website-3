@@ -193,6 +193,11 @@ img {
   width: 470px;
 }
 
+.home__tree {
+  bottom: 0.5rem;
+  width: 470px;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
