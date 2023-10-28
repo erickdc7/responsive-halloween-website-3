@@ -303,6 +303,44 @@ img {
 }
 
 /* For medium devices */
+@media screen and (min-width: 576px) {
+  .home__container {
+    height: 85%;
+  }
+
+  .home__grass,
+  .home__stone,
+  .home__tree,
+  .home__moon {
+    width: 100%;
+  }
+
+  .home__moon {
+    bottom: 3rem;
+  }
+
+  .home__titles {
+    bottom: 13rem;
+  }
+
+  .home__data {
+    bottom: 2rem;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .home__titles {
+    bottom: 16rem;
+  }
+
+  .home__subtitle {
+    font-size: 2.5rem;
+  }
+
+  .home__title {
+    font-size: 4.5rem;
+  }
+}
 
 /* For large devices */
 
