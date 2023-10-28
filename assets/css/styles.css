@@ -223,6 +223,12 @@ img {
   mix-blend-mode: overlay;
 }
 
+.home__titles {
+  position: absolute;
+  bottom: 11rem;
+  text-align: center;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
