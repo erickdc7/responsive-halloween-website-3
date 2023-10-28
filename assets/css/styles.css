@@ -203,6 +203,12 @@ img {
   width: 590px;
 }
 
+.home__stone,
+.home__tree,
+.home__moon {
+  max-width: initial;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
