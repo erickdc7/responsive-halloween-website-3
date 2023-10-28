@@ -219,6 +219,10 @@ img {
   object-position: center;
 }
 
+.home__shadow {
+  mix-blend-mode: overlay;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
