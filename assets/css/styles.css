@@ -263,6 +263,13 @@ img {
   transition: filter 0.4s;
 }
 
+.home__button span {
+  position: absolute;
+  color: var(--white-color);
+  font-size: var(--small-font-size);
+  font-weight: var(--font-medium);
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
