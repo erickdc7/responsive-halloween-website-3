@@ -229,6 +229,14 @@ img {
   text-align: center;
 }
 
+.home__subtitle,
+.home__title {
+  color: var(--black-color);
+  font-family: var(--second-font);
+  font-weight: var(--font-regular);
+  text-shadow: 0 2px 8px var(--first-color);
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
