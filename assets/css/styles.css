@@ -85,6 +85,15 @@ img {
 }
 
 /*=============== HEADER & NAV ===============*/
+.header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background: transparent;
+  z-index: var(--z-fixed);
+  transition: background-color 0.3s;
+}
 
 /* Navigation for mobile devices */
 
