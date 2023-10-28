@@ -140,6 +140,12 @@ img {
   row-gap: 3rem;
 }
 
+.nav__link {
+  color: var(--white-color);
+  font-weight: var(--font-medium);
+  transition: text-shadow 0.3s;
+}
+
 /* Show menu */
 
 /* Change background header */
