@@ -430,3 +430,12 @@ img {
 }
 
 /* For 2K resolutions (2048 x 1152) */
+@media screen and (min-width: 2048px) {
+  .home__container {
+    height: 1200px;
+  }
+
+  .home__titles {
+    bottom: 45rem;
+  }
+}
