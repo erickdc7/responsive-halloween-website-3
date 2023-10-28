@@ -162,6 +162,9 @@ img {
 }
 
 /* Change background header */
+.bg-header {
+  background-color: var(--black-color);
+}
 
 /*=============== HOME ===============*/
 .home {
