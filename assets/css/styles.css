@@ -102,6 +102,13 @@ img {
   align-items: center;
 }
 
+.nav__logo {
+  color: var(--white-color);
+  font-family: var(--second-font);
+  font-size: var(--h2-font-size);
+  transition: text-shadow 0.3s;
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
