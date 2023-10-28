@@ -150,6 +150,12 @@ img {
   text-shadow: 0 2px 8px var(--first-color);
 }
 
+.nav__close {
+  position: absolute;
+  top: 1rem;
+  right: 1.5rem;
+}
+
 /* Show menu */
 
 /* Change background header */
