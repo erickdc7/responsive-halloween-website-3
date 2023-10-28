@@ -252,6 +252,10 @@ img {
   margin-inline: 1.5rem; /* margin-left & margin-right: 1.5rem */
 }
 
+.home__description {
+  margin-bottom: 2rem;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
