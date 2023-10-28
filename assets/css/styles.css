@@ -256,6 +256,13 @@ img {
   margin-bottom: 2rem;
 }
 
+.home__button {
+  display: inline-grid;
+  position: relative;
+  place-items: center;
+  transition: filter 0.4s;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
