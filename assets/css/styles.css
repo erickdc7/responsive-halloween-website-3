@@ -170,6 +170,24 @@ img {
   background-color: var(--black-color);
 }
 
+.home__container {
+  position: relative;
+  height: 70%;
+  background: var(--radial-color);
+  display: grid;
+  justify-items: center;
+  overflow: hidden;
+}
+
+.home__container img {
+  position: absolute;
+}
+
+.home__grass,
+.home__pumpkin {
+  bottom: 0;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
