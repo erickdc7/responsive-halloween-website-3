@@ -133,6 +133,13 @@ img {
   }
 }
 
+.nav__list {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  row-gap: 3rem;
+}
+
 /* Show menu */
 
 /* Change background header */
