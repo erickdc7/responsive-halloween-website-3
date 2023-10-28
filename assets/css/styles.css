@@ -270,6 +270,10 @@ img {
   font-weight: var(--font-medium);
 }
 
+.home__button:hover {
+  filter: drop-shadow(0 4px 24px hsla(185, 100%, 48%, 0.6));
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 
