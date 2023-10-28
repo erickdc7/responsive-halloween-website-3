@@ -276,6 +276,31 @@ img {
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
+@media screen and (max-width: 330px) {
+  .container {
+    margin-inline: 1rem;
+  }
+
+  .home__stone {
+    width: 370px;
+  }
+
+  .home__tree {
+    width: 400px;
+  }
+
+  .home__moon {
+    width: 520px;
+  }
+
+  .home__titles {
+    bottom: 9rem;
+  }
+
+  .home__data {
+    bottom: 2rem;
+  }
+}
 
 /* For medium devices */
 
